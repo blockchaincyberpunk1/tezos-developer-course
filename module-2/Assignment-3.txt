@@ -1,0 +1,46 @@
+Michelson Smart Contract Development
+
+Course: Tezos Developer Course
+
+Assignment Objective: The objective of this assignment is to provide students with hands-on experience in creating Michelson smart contracts on the Tezos platform. Students will develop a Michelson smart contract that demonstrates basic functionality and then deploy and test it on a Tezos testnet.
+
+Instructions:
+
+Assignment Task:
+
+Michelson Smart Contract Development
+
+Introduction (10 points):
+
+Begin by explaining the importance of practical experience in Michelson smart contract development.
+Emphasize the significance of writing efficient, secure, and functional smart contracts on the Tezos blockchain.
+Smart Contract Use Case (10 points):
+
+Present students with a choice of smart contract use cases. These could include creating a token contract, implementing a voting system, or any other simple but practical scenario.
+Explain the selected use case and its expected functionality.
+Smart Contract Development (50 points):
+
+Assign students the task of developing a Michelson smart contract based on the chosen use case. Students should write clean, well-documented Michelson code that adheres to best practices.
+Encourage students to think critically about their contract's logic and consider security implications.
+Contract Deployment (10 points):
+
+Instruct students to deploy their Michelson smart contract on a Tezos testnet. Provide guidance on how to deploy contracts using available tools or platforms.
+Students should ensure that the contract deployment is successful and record the contract address.
+Testing and Evaluation (10 points):
+
+Ask students to create test scenarios for their smart contracts. They should test different aspects of the contract's functionality.
+Encourage students to document the testing process and ensure that the contract behaves as expected.
+Documentation and Reflection (10 points):
+
+Assign students to document their Michelson code thoroughly, including explanations of contract functions and any relevant comments.
+Request that students write a reflection on their experience, highlighting any challenges faced during development and deployment.
+Submission Guidelines:
+
+Students should submit their Michelson smart contract code, documentation, contract deployment details, testing scenarios and results, and a reflection on their experience to the instructor or the designated platform provided for the assignment.
+Grading Rubric:
+
+Smart Contract Use Case (10 points)
+Smart Contract Development (50 points)
+Contract Deployment (10 points)
+Testing and Evaluation (10 points)
+Documentation and Reflection (10 points)

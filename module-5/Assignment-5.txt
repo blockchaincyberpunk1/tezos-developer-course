@@ -1,0 +1,43 @@
+DApp Deployment and User Guide
+
+Course: Tezos Developer Course
+
+Assignment Objective: The objective of this assignment is to assess students' ability to deploy a Tezos-based decentralized application (DApp) on a testnet and create a comprehensive user guide for end-users. Students will gain hands-on experience with deployment and improve their documentation skills.
+
+Instructions:
+
+Assignment Task:
+
+DApp Deployment (50 points):
+
+Deployment on Tezos Testnet (30 points):
+
+Instruct students to deploy their previously developed Tezos DApp on a Tezos testnet. They should use a testnet to ensure that real Tez (XTZ) tokens are not at risk during testing and user guide creation.
+Deployment Documentation (20 points):
+
+Require students to document the deployment process, including steps, tools used, and any challenges they encountered. The documentation should be clear and informative.
+User Guide Creation (50 points):
+
+User Guide Contents (30 points):
+
+Ask students to create a comprehensive user guide for their DApp. The guide should be designed for end-users, including those who may not have technical expertise in blockchain or Tezos. It should cover the following aspects:
+Introduction to the DApp and its purpose.
+Account setup and registration (if applicable).
+Step-by-step instructions for using DApp features.
+How to interact with the smart contract (e.g., sending transactions, voting).
+Troubleshooting common issues.
+Contact information for support or assistance.
+Clarity and Accessibility (20 points):
+
+Evaluate the clarity and accessibility of the user guide. It should be written in plain language, free of technical jargon, and include visual aids (e.g., screenshots or diagrams) where necessary to enhance understanding.
+Submission Guidelines:
+
+Students should submit proof of DApp deployment on the Tezos testnet, the deployment documentation, and the user guide to the instructor or the designated platform provided for the assignment.
+Grading Rubric:
+
+DApp Deployment (50 points)
+Deployment on Tezos Testnet (30 points)
+Deployment Documentation (20 points)
+User Guide Creation (50 points)
+User Guide Contents (30 points)
+Clarity and Accessibility (20 points)

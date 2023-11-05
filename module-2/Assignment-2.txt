@@ -1,0 +1,43 @@
+Michelson Syntax and Data Types
+
+Course: Tezos Developer Course
+
+Assignment Objective: The objective of this assignment is to introduce students to Michelson, Tezos' smart contract language. Students will study Michelson's syntax and data types, analyze provided Michelson code snippets, and write their Michelson code for basic operations.
+
+Instructions:
+
+Assignment Task:
+
+Michelson Syntax and Data Types
+
+Introduction (10 points):
+
+Begin by providing students with an overview of Michelson as Tezos' smart contract language.
+Explain the importance of understanding Michelson's syntax and data types for developing Tezos smart contracts.
+Michelson Syntax Study (20 points):
+
+Share a set of Michelson code snippets that perform simple operations, such as arithmetic calculations, comparisons, or stack manipulation.
+Instruct students to thoroughly study each code snippet and provide explanations for what each snippet does.
+Encourage students to pay attention to Michelson's stack-based nature and its unique syntax.
+Michelson Code Writing (50 points):
+
+Assign students the task of writing their Michelson code for basic operations. Provide clear instructions and examples for each operation.
+Examples of operations can include arithmetic calculations (e.g., addition, multiplication), stack manipulation (e.g., push and pop), or data type conversions.
+Students should ensure that their Michelson code is correct and follows Michelson's syntax rules.
+Testing and Execution (10 points):
+
+Instruct students to use a Michelson interpreter or sandbox environment to test and execute their Michelson code.
+They should validate that their code produces the expected results and that there are no runtime errors.
+Documentation and Reflection (10 points):
+
+Ask students to document their Michelson code, including code comments that explain the purpose of each operation.
+Encourage students to write a brief reflection on their experience with Michelson, noting any challenges they encountered and how they overcame them.
+Submission Guidelines:
+
+Students should submit their Michelson code, explanations for the provided Michelson code snippets, documentation, and a reflection on their experience to the instructor or the designated platform provided for the assignment.
+Grading Rubric:
+
+Michelson Syntax Study (20 points)
+Michelson Code Writing (50 points)
+Testing and Execution (10 points)
+Documentation and Reflection (10 points)

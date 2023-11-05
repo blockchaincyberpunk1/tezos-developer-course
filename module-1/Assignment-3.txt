@@ -1,0 +1,38 @@
+Tezos Testnet Deployment
+
+Course: Tezos Developer Course
+
+Assignment Objective: The objective of this assignment is to provide students with practical experience in deploying a smart contract on the Tezos testnet using Tezos-specific smart contract languages.
+
+Instructions:
+
+Assignment Task:
+
+Tezos Testnet Deployment
+
+Setting Up the Environment (10 points):
+
+Instruct students to set up their development environment for Tezos smart contract development. This should include installing Tezos-specific tools and smart contract development environments like LIGO or SmartPy.
+Smart Contract Development (30 points):
+
+Assign students the task of creating a simple smart contract using one of the Tezos-specific smart contract languages (e.g., Michelson, LIGO, or SmartPy).
+Encourage creativity but specify that the smart contract should demonstrate fundamental concepts (e.g., token issuance, delegation, simple application logic).
+Ensure that students follow best practices and coding standards while developing the smart contract.
+Testnet Deployment (40 points):
+
+Guide students through the process of deploying their smart contract on the Tezos testnet.
+Instruct students to obtain testnet XTZ (Tezos tokens) if not already provided and use them for deploying and interacting with the smart contract.
+Encourage students to test the smart contract's functionality thoroughly on the testnet.
+Documentation and Submission (20 points):
+
+Require students to create comprehensive documentation for their smart contract, including its purpose, functionality, and usage instructions.
+Ask students to submit their smart contract code, any scripts or tools used for deployment, and the documentation to the instructor or the designated platform provided for the assignment.
+Submission Guidelines:
+
+Students should submit their smart contract code, deployment scripts/tools, and documentation to the instructor or the designated platform provided for the assignment.
+Grading Rubric:
+
+Setting Up the Environment (10 points)
+Smart Contract Development (30 points)
+Testnet Deployment (40 points)
+Documentation and Submission (20 points)

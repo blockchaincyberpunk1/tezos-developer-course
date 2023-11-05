@@ -1,0 +1,50 @@
+Complex Smart Contracts
+
+Course: Tezos Developer Course
+
+Assignment Objective: The objective of this assignment is to challenge students with complex smart contract development scenarios on the Tezos blockchain. Students will design, implement, and test a Tezos smart contract to address a real-world problem that requires intricate logic.
+
+Instructions:
+
+Assignment Task:
+
+Complex Smart Contract Development
+
+Introduction (10 points):
+
+Explain the significance of complex smart contracts in real-world blockchain applications.
+Introduce the assignment's objective: to design, implement, and test a Tezos smart contract to address a challenging real-world problem.
+Highlight the potential use cases that complex smart contracts can solve (e.g., multi-signature wallets, DeFi protocols, governance mechanisms).
+Problem Description (20 points):
+
+Provide students with a detailed real-world problem that requires a complex smart contract solution. The problem should involve multiple stakeholders, intricate rules, or governance requirements.
+Examples of problems:
+Design a multi-signature wallet contract for a consortium of organizations with specific signing requirements.
+Create a decentralized lending platform with lending and borrowing rules governed by smart contracts.
+Develop a governance mechanism for a decentralized autonomous organization (DAO) with voting rules and proposals.
+Ensure that the problem is challenging and necessitates complex contract logic.
+Smart Contract Design (30 points):
+
+Instruct students to design the Tezos smart contract that addresses the problem.
+Encourage them to consider factors like contract storage, entry points, state transitions, and governance rules.
+Students should provide a clear outline of their contract's architecture, including diagrams if applicable.
+Smart Contract Implementation (30 points):
+
+Assign students the task of implementing the smart contract in Michelson or another Tezos-specific smart contract language (e.g., LIGO).
+Encourage thorough testing during the development phase.
+Students should document the code and any challenges they encountered during implementation.
+Testing and Deployment (10 points):
+
+Request that students thoroughly test the smart contract to ensure its functionality and security.
+Once testing is successful, they should deploy the contract on a Tezos testnet or other suitable environment.
+Provide evidence of successful deployment.
+Submission Guidelines:
+
+Students should submit their smart contract code, design documentation, testing results, and deployment evidence to the instructor or the designated platform provided for the assignment.
+Grading Rubric:
+
+Problem Description (20 points)
+Smart Contract Design (30 points)
+Smart Contract Implementation (30 points)
+Testing and Deployment (10 points)
+Documentation (10 points)

@@ -1,0 +1,45 @@
+LIGO Contract Development
+
+Course: Tezos Developer Course
+
+Assignment Objective: The objective of this assignment is to introduce students to the LIGO development framework for Tezos smart contract development. Students will be tasked with creating a Tezos smart contract using the LIGO programming language. The contract should implement specific functionality, such as token issuance or voting. Students will also document the development process and deploy the contract to a Tezos testnet.
+
+Instructions:
+
+Assignment Task:
+
+LIGO Smart Contract Development (80 points):
+
+Scenario Description (10 points):
+
+Provide students with a scenario that requires the development of a Tezos smart contract using the LIGO programming language. The scenario should be practical and include specific requirements that the smart contract must meet.
+LIGO Development (40 points):
+
+Instruct students to use the LIGO development framework to create the Tezos smart contract based on the provided scenario and requirements.
+Encourage students to leverage LIGO's features for contract development and testing.
+Ensure that the contract includes relevant functionality and adheres to best practices for smart contract development using LIGO.
+Testing (20 points):
+
+Require students to conduct comprehensive testing of their LIGO smart contract to ensure its functionality and security.
+Students should create test cases that cover various contract scenarios and edge cases.
+Encourage students to document their testing process and provide evidence of successful testing.
+Deployment and Documentation (20 points):
+
+Testnet Deployment (10 points):
+
+Instruct students to deploy their LIGO smart contract to a Tezos testnet. They should use a testnet wallet and document the deployment steps, including any challenges they face and how they resolve them.
+Deployment Documentation (10 points):
+
+Require students to create clear and informative documentation of the deployment process. The documentation should include step-by-step instructions, screenshots, and explanations of key deployment decisions.
+Submission Guidelines:
+
+Students should submit their LIGO smart contract code, testing documentation, evidence of successful testing, and deployment documentation to the instructor or the designated platform provided for the assignment.
+Grading Rubric:
+
+LIGO Smart Contract Development (80 points)
+Scenario Description (10 points)
+LIGO Development (40 points)
+Testing (20 points)
+Deployment and Documentation (20 points)
+Testnet Deployment (10 points)
+Deployment Documentation (10 points)

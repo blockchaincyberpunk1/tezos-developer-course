@@ -1,0 +1,42 @@
+DApp Front-End Development
+
+Course: Tezos Developer Course
+
+Assignment Objective: The objective of this assignment is to teach students how to create the front-end of a decentralized application (DApp) on Tezos. Students will be provided with a simple Tezos smart contract that they can interact with. They will then develop a user-friendly front-end interface using web technologies like HTML, CSS, and JavaScript to interact with the contract. Students should demonstrate how users can use the DApp to interact with the smart contract on a Tezos testnet.
+
+Instructions:
+
+Assignment Task:
+
+Front-End Development (70 points):
+
+Smart Contract Interaction (20 points):
+
+Provide students with a Tezos smart contract deployed on a Tezos testnet. Ensure that the contract has specific functions that students need to interact with, such as token transfers or voting.
+Instruct students to develop a front-end interface for the DApp that allows users to interact with the provided smart contract. The interface should enable users to perform actions such as making transactions, viewing contract data, or voting.
+User Interface (UI) Design (20 points):
+
+Encourage students to create a user-friendly and visually appealing UI for the DApp. They should design the interface using HTML and CSS, ensuring it is responsive and accessible.
+Contract Interaction Logic (20 points):
+
+Require students to implement the JavaScript logic necessary to interact with the Tezos smart contract. This includes sending transactions, reading contract data, and handling contract events.
+User Guide (20 points):
+
+DApp Usage Guide (10 points):
+
+Instruct students to create a user guide that explains how to use the DApp's front-end interface to interact with the provided smart contract. The guide should include step-by-step instructions, screenshots, and explanations.
+Deployment Guide (10 points):
+
+Require students to provide a deployment guide that explains how to set up and run the DApp locally on their own machines or a specified development environment. This should include any necessary dependencies and configurations.
+Submission Guidelines:
+
+Students should submit their DApp front-end code, the user guide, and the deployment guide to the instructor or the designated platform provided for the assignment.
+Grading Rubric:
+
+Front-End Development (70 points)
+Smart Contract Interaction (20 points)
+User Interface (UI) Design (20 points)
+Contract Interaction Logic (20 points)
+User Guide (20 points)
+DApp Usage Guide (10 points)
+Deployment Guide (10 points)

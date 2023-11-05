@@ -1,0 +1,44 @@
+Smart Contract Interaction
+
+Course: Tezos Developer Course
+
+Assignment Objective: The objective of this assignment is to provide students with practical experience in creating and testing Michelson smart contracts that interact with each other on the Tezos platform. Students will develop two Michelson contracts, where one contract interacts with the other, and they will document the process.
+
+Instructions:
+
+Assignment Task:
+
+Smart Contract Interaction
+
+Introduction (10 points):
+
+Start by explaining the importance of understanding how smart contracts can interact with each other on the Tezos blockchain.
+Emphasize that smart contract interaction is a fundamental concept in blockchain development.
+Smart Contract Pairing (10 points):
+
+Assign students the task of creating a pair of Michelson smart contracts that are designed to interact. One contract should serve as a token contract, while the other should be a simple application contract that utilizes the tokens.
+Describe the purpose of each contract and how they are intended to interact.
+Smart Contract Development (50 points):
+
+Instruct students to develop the two Michelson smart contracts based on the specified use case. They should write clean, well-documented Michelson code for both contracts, following best practices.
+Encourage students to think critically about the logic of each contract and the methods of interaction.
+Contract Deployment (10 points):
+
+Provide guidance on deploying both Michelson smart contracts on a Tezos testnet. Students should ensure that both contracts are successfully deployed and record their contract addresses.
+Testing and Interaction (10 points):
+
+Ask students to create test scenarios that demonstrate the interaction between the two contracts. They should test various aspects of the interaction and document the testing process.
+Documentation and Reflection (10 points):
+
+Assign students to document their Michelson code, including explanations of contract functions and any relevant comments.
+Request that students write a reflection on their experience, focusing on the challenges and insights gained during the process of developing and testing interacting smart contracts.
+Submission Guidelines:
+
+Students should submit their Michelson smart contract code (both contracts), documentation, contract deployment details, testing scenarios and results, and a reflection on their experience to the instructor or the designated platform provided for the assignment.
+Grading Rubric:
+
+Smart Contract Pairing (10 points)
+Smart Contract Development (50 points)
+Contract Deployment (10 points)
+Testing and Interaction (10 points)
+Documentation and Reflection (10 points)

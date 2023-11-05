@@ -1,0 +1,33 @@
+Debugging Tezos Contracts
+
+Course: Tezos Developer Course
+
+Assignment Objective: The objective of this assignment is to improve students' debugging skills for Tezos smart contracts. Students will be provided with a flawed Tezos smart contract that contains logical errors or vulnerabilities. They will need to debug the contract and provide a corrected version. This assignment encourages students to use debugging tools and techniques to identify and fix issues in Tezos contracts.
+
+Instructions:
+
+Assignment Task:
+
+Debugging a Flawed Tezos Smart Contract (60 points):
+
+Provided Flawed Smart Contract (10 points):
+
+Provide students with a Tezos smart contract written in Michelson or Liquidity. The contract should contain logical errors, vulnerabilities, or issues that need debugging.
+Debugging Process (30 points):
+
+Instruct students to thoroughly review the provided smart contract to identify and understand the issues.
+Encourage students to use debugging tools and techniques available for Tezos smart contract development, such as Michelson-specific debuggers or Liquidity's debugging features.
+Require students to document their debugging process, including the steps they took to identify and analyze the issues.
+Issue Resolution (20 points):
+
+Ask students to correct the identified issues in the smart contract, ensuring that the contract functions correctly and securely.
+Students should provide the corrected version of the contract and explain the changes they made to resolve the issues.
+Submission Guidelines:
+
+Students should submit both the original flawed smart contract and the corrected version, along with their debugging process documentation, to the instructor or the designated platform provided for the assignment.
+Grading Rubric:
+
+Debugging a Flawed Tezos Smart Contract (60 points)
+Provided Flawed Smart Contract (10 points)
+Debugging Process (30 points)
+Issue Resolution (20 points)

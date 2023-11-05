@@ -1,0 +1,44 @@
+RPC Interaction
+
+Course: Tezos Developer Course
+
+Assignment Objective: The objective of this assignment is to teach students how to interact with the Tezos blockchain programmatically using Remote Procedure Calls (RPCs). Students will demonstrate their ability to retrieve blockchain data and perform transactions using Tezos RPCs.
+
+Instructions:
+
+Assignment Task:
+
+RPC Interaction with the Tezos Blockchain
+
+Introduction (10 points):
+
+Explain the importance of interacting with the Tezos blockchain programmatically.
+Introduce the concept of Remote Procedure Calls (RPCs) and their role in blockchain interaction.
+Highlight the practical applications of RPCs in Tezos development.
+Choose an RPC Task (20 points):
+
+Assign each student one of the following tasks (or similar):
+Task 1: Retrieve the balance of a specific Tezos address.
+Task 2: Send a transaction from one Tezos address to another programmatically.
+Task 3: Retrieve the transaction history for a specific Tezos address.
+Ensure that each student receives a unique task.
+Implementation (40 points):
+
+Instruct students to write code to programmatically perform their assigned task using Tezos RPCs.
+Encourage the use of a programming language of their choice (e.g., Python, JavaScript).
+Students should document their code thoroughly, including explanations and comments.
+Testing and Results (20 points):
+
+Ask students to test their RPC interactions and ensure that their code successfully accomplishes the assigned task.
+They should provide evidence of the testing process and present the results.
+Documentation (10 points):
+
+Request that students create comprehensive documentation summarizing their RPC interaction, including the RPC endpoint used, input parameters, code snippets, and the outcomes of their tasks.
+Submission Guidelines:
+
+Students should submit their code, test results, and documentation to the instructor or the designated platform provided for the assignment.
+Grading Rubric:
+
+Task Implementation (40 points)
+Testing and Results (20 points)
+Documentation (10 points)

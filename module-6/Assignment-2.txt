@@ -1,0 +1,41 @@
+Attend a Tezos Meetup or Webinar
+
+Course: Tezos Developer Course
+
+Assignment Objective: The objective of this assignment is to promote active involvement in Tezos events and gatherings. By attending a Tezos meetup or webinar, students will have the opportunity to learn from experts, stay updated on Tezos developments, and connect with the Tezos community.
+
+Instructions:
+
+Assignment Task:
+
+Event Selection (10 points):
+
+Instruct students to search for and select a Tezos meetup or webinar that interests them. They can find such events on platforms like Meetup, Eventbrite, or through Tezos community announcements.
+Event Attendance (40 points):
+
+Assign students the task of attending the chosen Tezos event. The event can be either in-person (if available) or online. They should make sure to:
+Register for the event if required.
+Attend the event in its entirety.
+Take notes during the event to capture key takeaways.
+Summary and Reflection (40 points):
+
+After attending the event, students should write a detailed summary and reflection. The summary should include:
+Event details (title, date, speakers).
+Key topics discussed or presented.
+Any new insights or knowledge gained.
+The reflection should address:
+How the event relates to their Tezos development journey.
+How the event contributed to their understanding of Tezos technology, ecosystem, or community.
+Whether they would recommend similar events to their peers and why.
+Peer Sharing (10 points):
+
+Encourage students to share their event experiences and insights with their peers. They can do this through a class discussion or by posting their reflections in a designated course forum.
+Submission Guidelines:
+
+Students should submit their event summary and reflection to the instructor or the designated platform provided for the assignment.
+Grading Rubric:
+
+Event Selection (10 points)
+Event Attendance (40 points)
+Summary and Reflection (40 points)
+Peer Sharing (10 points)

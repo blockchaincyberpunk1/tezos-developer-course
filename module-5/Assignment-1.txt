@@ -1,0 +1,45 @@
+SmartPy Smart Contract
+
+Course: Tezos Developer Course
+
+Assignment Objective: The objective of this assignment is to provide students with hands-on experience in developing Tezos smart contracts using the SmartPy development framework. Students will be tasked with creating a Tezos smart contract that meets specific requirements, deploying it to a Tezos testnet, and documenting the deployment process.
+
+Instructions:
+
+Assignment Task:
+
+SmartPy Smart Contract Development (80 points):
+
+Scenario Description (10 points):
+
+Provide students with a scenario that requires the development of a Tezos smart contract. The scenario should be realistic and include specific requirements that the smart contract must fulfill.
+SmartPy Development (40 points):
+
+Instruct students to use the SmartPy development framework to create the Tezos smart contract based on the provided scenario and requirements.
+Encourage students to leverage the capabilities of SmartPy for contract development, testing, and simulation.
+Ensure that the contract includes relevant functionality and adheres to best practices for smart contract development.
+Testing (20 points):
+
+Require students to thoroughly test their SmartPy smart contract to ensure that it functions as intended.
+Encourage them to create test cases that cover different contract scenarios and edge cases.
+Students should document their testing process and provide evidence of successful testing.
+Deployment and Documentation (20 points):
+
+Testnet Deployment (10 points):
+
+Instruct students to deploy their SmartPy smart contract to a Tezos testnet. They should use a testnet wallet and document the deployment steps, including any challenges they encounter and how they overcome them.
+Deployment Documentation (10 points):
+
+Require students to create clear and concise documentation of the deployment process. The documentation should include step-by-step instructions, screenshots, and explanations of key deployment decisions.
+Submission Guidelines:
+
+Students should submit their SmartPy smart contract code, testing documentation, evidence of successful testing, and deployment documentation to the instructor or the designated platform provided for the assignment.
+Grading Rubric:
+
+SmartPy Smart Contract Development (80 points)
+Scenario Description (10 points)
+SmartPy Development (40 points)
+Testing (20 points)
+Deployment and Documentation (20 points)
+Testnet Deployment (10 points)
+Deployment Documentation (10 points)

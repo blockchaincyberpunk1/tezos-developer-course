@@ -1,0 +1,50 @@
+Liquidity Language
+
+Course: Tezos Developer Course
+
+Assignment Objective: The objective of this assignment is to introduce students to the Liquidity programming language for Tezos and assess their understanding. Students will create a Tezos smart contract using Liquidity, compare it with Michelson, and analyze the advantages and disadvantages of Liquidity for contract development.
+
+Instructions:
+
+Assignment Task:
+
+Introduction to Liquidity (10 points):
+
+Provide a brief introduction to the Liquidity programming language, highlighting its role in Tezos smart contract development.
+Explain the significance of offering high-level languages like Liquidity for Tezos developers.
+Liquidity Smart Contract Development (40 points):
+
+Explore Liquidity (10 points):
+
+Instruct students to explore the Liquidity language by reading documentation and examining code examples.
+Encourage them to understand Liquidity's syntax, data types, and high-level features.
+Create a Liquidity Smart Contract (20 points):
+
+Assign students the task of creating a Tezos smart contract using Liquidity. The contract should serve a basic purpose, such as transferring tokens or managing digital assets.
+Provide guidance on setting up a development environment for Liquidity.
+Students should thoroughly comment their code to explain its functionality.
+Comparison with Michelson (10 points):
+
+Instruct students to compare the experience of developing in Liquidity with Michelson.
+Ask them to highlight the advantages and disadvantages of using Liquidity compared to coding directly in Michelson.
+Encourage them to consider factors like development speed, readability, and code complexity.
+Documentation and Analysis (40 points):
+
+Documentation (20 points):
+Request that students provide comprehensive documentation for their Liquidity smart contract. This should include explanations of the contract's purpose, entry points, and key functions.
+Students should also describe how the contract handles data and state.
+Advantages and Disadvantages (20 points):
+Instruct students to write a comparative analysis that discusses the advantages and disadvantages of Liquidity compared to Michelson for Tezos smart contract development.
+They should reflect on their development experience and the trade-offs associated with each language.
+Submission Guidelines:
+
+Students should submit their Liquidity smart contract code, documentation, and comparative analysis to the instructor or the designated platform provided for the assignment.
+Grading Rubric:
+
+Liquidity Smart Contract Development (40 points)
+Exploration of Liquidity (10 points)
+Creation of a Liquidity Smart Contract (20 points)
+Comparison with Michelson (10 points)
+Documentation (20 points)
+Advantages and Disadvantages Analysis (20 points)
+Overall Clarity and Organization (20 points)

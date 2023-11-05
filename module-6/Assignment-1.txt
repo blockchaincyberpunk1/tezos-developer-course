@@ -1,0 +1,39 @@
+Tezos Forum Engagement
+
+Course: Tezos Developer Course
+
+Assignment Objective: The objective of this assignment is to encourage students to actively engage with the Tezos community through online forums and discussions. By participating in these forums, students will gain insights, share knowledge, and become part of the broader Tezos developer community.
+
+Instructions:
+
+Assignment Task:
+
+Forum Registration (10 points):
+
+Instruct students to register on the official Tezos community forum (https://forum.tezosagora.org/) or another relevant Tezos discussion platform of their choice. They should use a legitimate username and follow the platform's code of conduct.
+Active Participation (50 points):
+
+Over a set period (e.g., two weeks), students should actively participate in discussions on the forum. They can do this by:
+Asking questions about Tezos development, smart contracts, tools, or related topics.
+Providing answers or solutions to existing queries posted by others.
+Sharing insights, news, or updates related to Tezos.
+Engaging in constructive discussions and debates on Tezos-related subjects.
+Documentation (20 points):
+
+Require students to maintain a log or journal documenting their forum interactions. This documentation should include the following:
+Date and time of each interaction.
+The specific discussion or thread they participated in.
+The content of their questions, answers, or comments.
+Any valuable insights gained from the community discussions.
+Insights Shared (20 points):
+
+Students should summarize and share the most valuable insights or knowledge they gained from their forum interactions. This could include new perspectives on Tezos development, solutions to challenging problems, or awareness of community resources.
+Submission Guidelines:
+
+Students should submit their forum engagement documentation and insights summary to the instructor or the designated platform provided for the assignment.
+Grading Rubric:
+
+Forum Registration (10 points)
+Active Participation (50 points)
+Documentation (20 points)
+Insights Shared (20 points)

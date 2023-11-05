@@ -1,0 +1,39 @@
+Unit Testing
+
+Course: Tezos Developer Course
+
+Assignment Objective: The objective of this assignment is to teach students how to perform unit testing on Tezos smart contracts. Students will write unit tests for a provided Tezos smart contract, create test cases that cover various contract functionalities, and document their testing process, including any encountered issues and their resolutions.
+
+Instructions:
+
+Assignment Task:
+
+Unit Testing of a Tezos Smart Contract (60 points):
+
+Provided Smart Contract (10 points):
+
+Provide students with a Tezos smart contract written in Michelson or Liquidity. The contract should have multiple functionalities to test.
+Test Case Creation (20 points):
+
+Instruct students to create a set of unit test cases for the provided smart contract. Each test case should focus on testing a specific functionality or scenario.
+Encourage students to include test cases for typical use cases as well as edge cases to ensure comprehensive coverage.
+Test Implementation (20 points):
+
+Ask students to write the unit tests using a testing framework suitable for Tezos smart contracts, such as PyTezos or Truffle for Liquidity.
+Ensure that students implement each test case effectively, including setting up contract state if necessary.
+Testing Documentation (10 points):
+
+Require students to document their testing process, including the following:
+An explanation of each test case's purpose.
+Details on how each test case is implemented.
+Any issues or challenges they encountered during testing and how they resolved them.
+Submission Guidelines:
+
+Students should submit their unit test code, including test cases, and the testing documentation to the instructor or the designated platform provided for the assignment.
+Grading Rubric:
+
+Unit Testing of a Tezos Smart Contract (60 points)
+Provided Smart Contract (10 points)
+Test Case Creation (20 points)
+Test Implementation (20 points)
+Testing Documentation (10 points)

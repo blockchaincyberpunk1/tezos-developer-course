@@ -1,0 +1,42 @@
+Blockchain and Tezos in the News
+
+Course: Tezos Developer Course
+
+Assignment Objective: The objective of this assignment is to keep students updated with the latest developments in the blockchain industry, with a specific focus on Tezos. By analyzing recent news articles or announcements, students will gain insights into the evolving Tezos ecosystem.
+
+Instructions:
+
+Assignment Task:
+
+Blockchain and Tezos in the News
+
+News Source Selection (10 points):
+
+Instruct students to select and follow news sources related to blockchain and Tezos technology. These sources may include official Tezos updates, blogs, industry news websites, and forums.
+Encourage students to choose reputable and up-to-date sources that cover Tezos-related developments.
+Article Summary (40 points):
+
+Ask students to read recent news articles, announcements, or blog posts related to Tezos. These articles should have been published within the last three months.
+Students should write a comprehensive summary of the selected article. The summary should include:
+The title and publication date of the article.
+A brief overview of the content, including key points and main takeaways.
+An explanation of the significance of the article for the Tezos ecosystem or blockchain technology in general.
+Reflection and Analysis (40 points):
+
+Require students to provide their analysis and reflection on the article's content. They should discuss:
+How the article's subject matter relates to Tezos or blockchain technology.
+Any potential implications or effects on the Tezos ecosystem or the broader blockchain industry.
+Their personal opinions or insights regarding the topic discussed in the article.
+Discussion (10 points):
+
+Organize a class discussion session where students can share their summaries, analyses, and reflections on the selected articles.
+Encourage students to engage in discussions, ask questions, and exchange ideas with their peers.
+Submission Guidelines:
+
+Students should submit their article summaries, reflections, and analysis to the instructor or the designated platform provided for the assignment.
+Grading Rubric:
+
+News Source Selection (10 points)
+Article Summary (40 points)
+Reflection and Analysis (40 points)
+Discussion (10 points)

@@ -1,0 +1,43 @@
+Tezos vs. Other Blockchains Comparison
+
+Course: Tezos Developer Course
+
+Assignment Objective: The objective of this assignment is to help students gain a deeper understanding of Tezos by comparing it with other blockchain platforms. This comparison will highlight Tezos' unique features and advantages.
+
+Instructions:
+
+Assignment Task:
+
+Tezos vs. Other Blockchains Comparison
+
+Select Blockchain Platforms (10 points):
+
+Instruct students to choose at least two other blockchain platforms to compare with Tezos. Common choices include Ethereum, Bitcoin, and other relevant blockchains.
+Comparison Categories (30 points):
+
+Provide students with a list of categories to compare, which may include:
+Architecture: How is Tezos' architecture different from the selected blockchain platforms? Discuss aspects such as its layered architecture, on-chain governance, and self-amendment.
+Consensus Mechanisms: Explain Tezos' proof-of-stake (PoS) consensus mechanism and compare it to the consensus mechanisms used by the other platforms (e.g., PoW for Bitcoin, PoS for Ethereum 2.0).
+Smart Contract Languages: Explore Tezos' smart contract languages (e.g., Michelson) and compare them to the languages used on other platforms (e.g., Solidity for Ethereum).
+Governance Model: Describe Tezos' on-chain governance model, including its role in protocol upgrades, and compare it to the governance models of the selected platforms.
+Scalability and Performance: Analyze Tezos' scalability features and compare them to the scalability challenges faced by other platforms.
+Ecosystem and Adoption: Evaluate the current state of Tezos' ecosystem, developer tools, and adoption in comparison to the other platforms.
+Research and Analysis (40 points):
+
+Instruct students to thoroughly research and analyze each of the comparison categories.
+Encourage students to provide quantitative data, where available, and cite credible sources to support their comparisons.
+Ensure that students critically analyze the strengths and weaknesses of each blockchain in the respective categories.
+Report or Presentation (20 points):
+
+Ask students to compile their research findings into a well-structured report or presentation.
+Emphasize the importance of clear and concise explanations, using appropriate terminology and examples to illustrate the comparisons.
+If students are creating presentations, encourage them to use visuals, diagrams, or slides to enhance their presentations and make the content more engaging.
+Submission Guidelines:
+
+Students should submit their comparative analysis report or presentation to the instructor or the designated platform provided for the assignment.
+Grading Rubric:
+
+Selection of Blockchain Platforms (10 points)
+Comparison Categories (30 points)
+Research and Analysis (40 points)
+Report or Presentation (20 points)

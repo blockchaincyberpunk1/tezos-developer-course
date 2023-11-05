@@ -1,0 +1,46 @@
+Setting Up a Tezos Node
+
+Course: Tezos Developer Course
+
+Assignment Objective: The objective of this assignment is to teach students how to set up and configure a Tezos node. Students will gain hands-on experience in installing and configuring a Tezos node on their local development environment, which is a fundamental skill for Tezos development.
+
+Instructions:
+
+Assignment Task:
+
+Setting Up a Tezos Node
+
+Introduction (10 points):
+
+Begin by explaining the importance of setting up a Tezos node for Tezos development.
+Highlight the significance of understanding the node's role in the Tezos network.
+Node Installation (40 points):
+
+Instruct students to install a Tezos node on their local development environment (e.g., Linux, macOS, or Windows).
+Provide clear step-by-step instructions for the installation process, including the following:
+Downloading the Tezos software.
+Setting up dependencies and prerequisites.
+Building and configuring the Tezos node.
+Encourage students to document any challenges they encounter during the installation and how they resolve them.
+Node Configuration (30 points):
+
+Guide students through the process of configuring their Tezos node to connect to the Tezos testnet.
+Explain how to specify the network, set security parameters, and configure RPC endpoints.
+Ensure that students successfully configure their nodes to interact with the Tezos testnet.
+Testing (10 points):
+
+Instruct students to verify the functionality of their Tezos node by making a simple RPC request (e.g., retrieving blockchain information).
+Students should provide evidence of a successful test.
+Documentation (10 points):
+
+Request that students create comprehensive documentation of their Tezos node setup and configuration.
+Documentation should include detailed steps, configuration files, and any custom settings applied.
+Submission Guidelines:
+
+Students should submit their documentation, including installation steps, configuration settings, and any challenges faced during the setup, to the instructor or the designated platform provided for the assignment.
+Grading Rubric:
+
+Node Installation (40 points)
+Node Configuration (30 points)
+Testing (10 points)
+Documentation (10 points)

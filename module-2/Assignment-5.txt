@@ -1,0 +1,48 @@
+Advanced Michelson
+
+Course: Tezos Developer Course
+
+Assignment Objective: The objective of this assignment is to challenge students to explore advanced concepts in Michelson, Tezos' smart contract language. Students will be tasked with developing a complex Michelson smart contract that incorporates advanced features such as multi-signature wallets, decentralized applications, or custom tokens with unique properties. This assignment aims to deepen their understanding of Michelson's more intricate aspects.
+
+Instructions:
+
+Assignment Task:
+
+Advanced Michelson Contract
+
+Introduction (10 points):
+
+Begin by explaining the significance of mastering advanced Michelson concepts and the real-world applications of smart contracts with complex functionalities.
+Smart Contract Selection (10 points):
+
+Instruct students to choose one of the following advanced Michelson contract types:
+Multi-signature wallet: Develop a Michelson smart contract that implements a multi-signature wallet with customizable signing requirements.
+Decentralized application (dApp): Create a Michelson smart contract that represents a decentralized application with interactive features.
+Custom token with unique properties: Design a Michelson smart contract that issues custom tokens with unique properties or capabilities.
+Contract Development (50 points):
+
+Assign students to develop the chosen Michelson smart contract, ensuring that it exhibits advanced features.
+Encourage students to implement robust logic, thorough error handling, and consider potential edge cases.
+Provide additional guidance and resources relevant to the selected contract type.
+Contract Deployment (10 points):
+
+Guide students through the process of deploying their advanced Michelson smart contract on a Tezos testnet.
+Ensure that students successfully deploy the contract and record its address.
+Testing and Demonstration (10 points):
+
+Request that students create test scenarios to demonstrate the functionality of their advanced Michelson contract.
+Encourage them to thoroughly test the contract and provide evidence of successful testing.
+Documentation and Reflection (10 points):
+
+Instruct students to document their Michelson code, providing clear explanations of the contract's functions, parameters, and any unique features.
+Ask students to reflect on their experience in developing an advanced Michelson contract, highlighting challenges, solutions, and insights gained.
+Submission Guidelines:
+
+Students should submit their Michelson smart contract code, documentation, contract deployment details, testing scenarios and results, and a reflection on their experience to the instructor or the designated platform provided for the assignment.
+Grading Rubric:
+
+Smart Contract Selection (10 points)
+Smart Contract Development (50 points)
+Contract Deployment (10 points)
+Testing and Demonstration (10 points)
+Documentation and Reflection (10 points)

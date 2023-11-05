@@ -1,0 +1,46 @@
+Blockchain Fundamentals Research
+
+Course: Tezos Developer Course
+
+Assignment Objective: The objective of this assignment is to provide students with a solid foundation in blockchain technology by researching and understanding its fundamental concepts, functionality, and real-world applications.
+
+Instructions:
+
+Assignment Task:
+
+Blockchain Fundamentals Research
+
+Research (40 points):
+
+Instruct students to conduct in-depth research on blockchain technology. They should explore and understand the core concepts, principles, and components of blockchain.
+Students should research and provide explanations for key topics, including but not limited to:
+What is blockchain technology, and how does it differ from traditional databases?
+How does blockchain achieve decentralization and consensus?
+What is a distributed ledger, and how does it work in a blockchain context?
+Explain the concept of cryptographic hashing and digital signatures in blockchain.
+Explore the role of miners, validators, and nodes in a blockchain network.
+Discuss the importance of immutability and transparency in blockchain.
+Provide insights into blockchain security and potential vulnerabilities.
+Use Cases and Examples (30 points):
+
+Instruct students to research and include real-world use cases and examples of blockchain applications. They should showcase how blockchain technology has been adopted in various industries, such as finance, supply chain, healthcare, and more.
+Encourage students to provide case studies or examples of specific blockchain projects, highlighting the problems they solve and the benefits they offer.
+Students should demonstrate a clear understanding of how blockchain is reshaping industries and solving real-world challenges.
+Report Writing (20 points):
+
+Ask students to compile their research findings into a well-structured report. The report should be well-organized, with sections covering each of the research topics mentioned above.
+Emphasize the importance of clear and concise explanations, using appropriate terminology and examples to illustrate concepts.
+Students should properly cite their sources and provide references for the information used in their report.
+Presentation (10 points):
+
+Have students present their research findings to the class or submit a recorded presentation summarizing the key points of their report.
+Encourage students to use visuals, diagrams, or slides to enhance their presentations and make the content more engaging.
+Submission Guidelines:
+
+Students should submit their research report and presentation (if applicable) to the instructor or the designated platform provided for the assignment.
+Grading Rubric:
+
+Research (40 points)
+Use Cases and Examples (30 points)
+Report Writing (20 points)
+Presentation (10 points)

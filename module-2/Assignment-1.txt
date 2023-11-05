@@ -1,0 +1,42 @@
+Solidity Basics
+
+Course: Tezos Developer Course
+
+Assignment Objective: The objective of this assignment is to familiarize students with the basics of smart contract development using Solidity, a language commonly used on Ethereum. Students will create a simple Ethereum smart contract, deploy it on a testnet, and gain hands-on experience in smart contract development.
+
+Instructions:
+
+Assignment Task:
+
+Solidity Basics
+
+Introduction (10 points):
+
+Start by providing students with an overview of Ethereum and its smart contract capabilities.
+Introduce Solidity as the primary language for Ethereum smart contract development and explain its key features.
+Setting Up the Development Environment (15 points):
+
+Instruct students on how to set up a development environment for Solidity smart contract development. This may include installing necessary tools, such as Ethereum clients (e.g., Ganache), Solidity compiler (solc), and a code editor (e.g., Visual Studio Code).
+Ensure that students understand how to configure their environment for testnet deployment.
+Smart Contract Creation (30 points):
+
+Provide a specific smart contract task for students to complete. For example, they can create a simple token contract or a contract that stores and retrieves data.
+Students should write the smart contract code in Solidity, adhering to best practices and coding standards.
+Testing and Deployment (30 points):
+
+Guide students on how to compile and test their smart contract code using a local Ethereum testnet, such as Ganache.
+Instruct students on deploying their smart contract to a public Ethereum testnet, such as Ropsten or Rinkeby, using tools like Remix or Truffle.
+Documentation and Reflection (15 points):
+
+Ask students to provide documentation for their smart contract, including code comments that explain the contract's functionality.
+Encourage students to write a brief reflection on their experience, including any challenges faced during the development and deployment process.
+Submission Guidelines:
+
+Students should submit their smart contract code, a document containing documentation and code comments, and a reflection on their experience to the instructor or the designated platform provided for the assignment.
+Grading Rubric:
+
+Introduction (10 points)
+Setting Up the Development Environment (15 points)
+Smart Contract Creation (30 points)
+Testing and Deployment (30 points)
+Documentation and Reflection (15 points)

@@ -1,0 +1,42 @@
+Tezos Use Case Exploration
+
+Course: Tezos Developer Course
+
+Assignment Objective: The objective of this assignment is to encourage students to explore real-world use cases and projects that leverage Tezos technology. This assignment will help students understand how Tezos addresses specific industry requirements and its advantages over other blockchains.
+
+Instructions:
+
+Assignment Task:
+
+Tezos Use Case Exploration
+
+Use Case Selection (10 points):
+
+Instruct students to choose a specific use case or project that utilizes Tezos technology. The use case could be related to finance, supply chain, healthcare, art, or any other field where Tezos is applied.
+Encourage students to select a use case that interests them and has publicly available information.
+Research and Analysis (40 points):
+
+Assign students the task of researching their chosen use case or project thoroughly. They should investigate how Tezos is being used to address the specific requirements of the use case.
+Students should analyze the advantages and unique features of Tezos that make it a suitable choice for the use case. They should also explore any challenges or limitations faced in the implementation.
+Presentation (40 points):
+
+Require students to present their findings in a structured and informative manner. They can choose to create a presentation, write a report, or use any other suitable format.
+In their presentation or report, students should cover the following aspects:
+Introduction to the chosen use case or project.
+Explanation of how Tezos technology is applied.
+Advantages of using Tezos for this use case.
+Challenges or limitations encountered.
+Real-world examples, if available.
+Insights and conclusions regarding Tezos' suitability for the use case.
+Q&A Session (10 points):
+
+After each presentation, conduct a brief question-and-answer session to allow students to discuss their findings and answer questions from peers.
+Submission Guidelines:
+
+Students should submit their presentation, report, or documentation to the instructor or the designated platform provided for the assignment.
+Grading Rubric:
+
+Use Case Selection (10 points)
+Research and Analysis (40 points)
+Presentation (40 points)
+Q&A Session (10 points)

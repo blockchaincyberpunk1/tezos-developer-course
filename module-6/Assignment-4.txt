@@ -1,0 +1,40 @@
+Tezos Protocol Update Analysis
+
+Course: Tezos Developer Course
+
+Assignment Objective: The objective of this assignment is to keep students informed about the latest Tezos protocol updates and changes. By analyzing and summarizing a recent Tezos protocol update, students will gain insights into the evolving nature of the Tezos blockchain and its potential impacts on development.
+
+Instructions:
+
+Assignment Task:
+
+Protocol Update Selection (10 points):
+
+Assign each student a recent Tezos protocol update to analyze. Ensure that the updates assigned are current and relevant to the Tezos development ecosystem.
+Update Analysis (40 points):
+
+Instruct students to thoroughly analyze the assigned protocol update. They should explore the following aspects:
+Changes and enhancements made to the protocol.
+Improvements in performance, security, or functionality.
+Implications for Tezos developers, smart contract authors, and users.
+Any potential challenges or migration requirements for existing projects.
+Summary and Presentation (40 points):
+
+Ask students to create a comprehensive report or presentation summarizing their analysis. The summary should include:
+An overview of the protocol update, including version information.
+A breakdown of the key changes and improvements.
+Insights into how these changes may impact Tezos development.
+Real-world examples or use cases that illustrate the impact of the update.
+Encourage students to use visual aids, diagrams, or code snippets to enhance their presentation.
+Reflection (10 points):
+
+Students should reflect on the significance of staying updated with Tezos protocol changes and how this knowledge can influence their development practices.
+Submission Guidelines:
+
+Students should submit their analysis reports or presentation slides to the instructor or the designated platform provided for the assignment.
+Grading Rubric:
+
+Protocol Update Selection (10 points)
+Update Analysis (40 points)
+Summary and Presentation (40 points)
+Reflection (10 points)

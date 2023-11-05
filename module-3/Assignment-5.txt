@@ -1,0 +1,50 @@
+Real-World Application
+
+Course: Tezos Developer Course
+
+Assignment Objective: The objective of this assignment is to encourage students to apply their advanced smart contract development skills to solve a real-world problem using Tezos. Students will identify a practical use case and create a complete solution, which could be a decentralized application (dApp), a governance mechanism, or a custom token with unique properties. This assignment aims to assess their ability to design and implement sophisticated Tezos smart contracts and document the development process.
+
+Instructions:
+
+Assignment Task:
+
+Identify a Real-World Use Case (10 points):
+
+Instruct students to research and identify a real-world problem or scenario that can be addressed using Tezos smart contracts.
+Encourage them to think creatively and select a use case that requires advanced contract functionality.
+Design and Plan (20 points):
+
+Ask students to create a detailed design and plan for their Tezos smart contract solution.
+This should include specifying the contract's objectives, its interaction with users, and any novel features it will offer.
+Students should provide a high-level architecture of their solution.
+Smart Contract Development (40 points):
+
+Development Phase (30 points):
+
+Assign students the task of developing the Tezos smart contract to address the selected real-world use case.
+Encourage them to use the appropriate Tezos-specific smart contract language (e.g., Michelson or Liquidity) and ensure that the contract is well-commented and readable.
+Testing Phase (10 points):
+
+Instruct students to thoroughly test their smart contract on a Tezos testnet or other suitable environment.
+They should identify and resolve any bugs or issues encountered during testing.
+Documentation and Final Solution (20 points):
+
+Request that students provide comprehensive documentation for their Tezos smart contract, including the contract's purpose, functions, and user interaction.
+Students should also document the development process, challenges faced, and the solutions implemented.
+They must submit the final working solution of their Tezos smart contract along with clear instructions on how it can be interacted with.
+Presentation (10 points):
+
+Organize a presentation session where students will present their Tezos smart contract solutions to the class or the instructor.
+Each student should explain their use case, the contract's design, its features, and how it addresses the real-world problem.
+Submission Guidelines:
+
+Students should submit their smart contract code, detailed documentation, and any relevant files or resources to the instructor or the designated platform provided for the assignment.
+Grading Rubric:
+
+Identification of a Real-World Use Case (10 points)
+Design and Planning (20 points)
+Smart Contract Development (40 points)
+Development Phase (30 points)
+Testing Phase (10 points)
+Documentation and Final Solution (20 points)
+Presentation (10 points)

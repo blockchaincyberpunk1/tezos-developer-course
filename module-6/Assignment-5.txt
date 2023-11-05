@@ -1,0 +1,45 @@
+ Research on Tezos Ecosystem Projects
+
+Course: Tezos Developer Course
+
+Assignment Objective: The objective of this assignment is to familiarize students with the Tezos ecosystem and its diverse range of projects and applications. By researching and presenting on a Tezos-based project, students will gain insights into the practical applications of Tezos technology and its impact on the blockchain space.
+
+Instructions:
+
+Assignment Task:
+
+Project Selection (10 points):
+
+Instruct students to select a Tezos-based project or application from the Tezos ecosystem. Encourage them to explore a variety of projects, such as decentralized applications (DApps), decentralized finance (DeFi) platforms, or governance solutions.
+Project Overview (30 points):
+
+Ask students to provide a comprehensive overview of the selected project. Their overview should include:
+Project name and description.
+Project goals and objectives.
+Use cases or real-world problems the project aims to solve.
+Key features or innovations offered by the project.
+Tezos Utilization (30 points):
+
+Instruct students to delve into how the chosen project utilizes Tezos technology. They should explain:
+How Tezos smart contracts are used within the project.
+The role of Tezos tokens (XTZ) within the project's ecosystem.
+Any unique features or advantages of using Tezos for the project.
+Impact Assessment (20 points):
+
+Encourage students to discuss the potential impact of the project on the broader blockchain space. They should consider factors like:
+How the project addresses current challenges or inefficiencies in blockchain technology.
+Its potential to drive innovation or adoption in the blockchain industry.
+Any partnerships or collaborations that enhance the project's influence.
+Presentation (10 points):
+
+Ask students to present their research findings to the class. Presentations can be in the form of slides, reports, or spoken presentations, depending on the class format.
+Submission Guidelines:
+
+Students should submit their project research reports or presentation materials to the instructor or the designated platform provided for the assignment.
+Grading Rubric:
+
+Project Selection (10 points)
+Project Overview (30 points)
+Tezos Utilization (30 points)
+Impact Assessment (20 points)
+Presentation (10 points)

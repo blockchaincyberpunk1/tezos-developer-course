@@ -1,0 +1,55 @@
+Secure Smart Contract Development
+
+Course: Tezos Developer Course
+
+Assignment Objective: The objective of this assignment is to reinforce best practices for writing secure Tezos smart contracts. Students will apply their knowledge by developing a Tezos smart contract that follows established security guidelines and coding standards. They will document the security features they implement and explain how these features enhance contract security.
+
+Instructions:
+
+Assignment Task:
+
+Develop a Secure Smart Contract (60 points):
+
+Contract Design (10 points):
+
+Instruct students to choose a simple use case for their Tezos smart contract (e.g., a token contract, a voting contract, a crowdfunding contract).
+Require them to design the contract's structure and functionality, considering potential security risks.
+Coding Standards (10 points):
+
+Provide students with coding standards and guidelines for Tezos smart contracts.
+Encourage them to follow these standards throughout the development process.
+Security Features Implementation (20 points):
+
+Require students to implement specific security features in their smart contract. These features can include:
+Input validation to prevent invalid data entry.
+Authorization checks to ensure that only authorized users can execute certain functions.
+Gas limits to prevent potential gas-related vulnerabilities.
+Error handling mechanisms to gracefully handle unexpected situations.
+Self-destruct mechanisms or pause functions for emergency situations.
+Documentation of Security Features (20 points):
+
+Request that students document the security features they implemented, explaining the purpose and functionality of each feature.
+Emphasize the importance of providing clear explanations of how these features enhance contract security.
+Documentation (30 points):
+
+Instruct students to create a comprehensive report that includes the following:
+Contract design description.
+Code snippets or the entire smart contract code.
+Documentation of security features and their implementations.
+Explanations of how each security feature enhances contract security.
+Presentation (10 points):
+
+Organize a presentation session where students will present their secure smart contract and the security features they implemented.
+Each student should explain the design choices made and how their security features mitigate potential risks.
+Submission Guidelines:
+
+Students should submit their secure smart contract code and the comprehensive report to the instructor or the designated platform provided for the assignment.
+Grading Rubric:
+
+Develop a Secure Smart Contract (60 points)
+Contract Design (10 points)
+Coding Standards (10 points)
+Security Features Implementation (20 points)
+Documentation of Security Features (20 points)
+Documentation (30 points)
+Presentation (10 points)

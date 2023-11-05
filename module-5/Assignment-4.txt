@@ -1,0 +1,45 @@
+Building a Full-fledged DApp
+
+Course: Tezos Developer Course
+
+Assignment Objective: The objective of this assignment is to challenge students to build a complete decentralized application (DApp) on the Tezos blockchain, integrating both the front-end and smart contract components. Students will design and develop a DApp with a practical use case, deploy it on a Tezos testnet, create a user guide, and provide a demonstration.
+
+Instructions:
+
+Assignment Task:
+
+Full-fledged DApp Development (80 points):
+
+DApp Use Case (10 points):
+
+Instruct students to choose a practical use case for their DApp. Examples include asset management, decentralized voting, or a supply chain application. Students should clearly define the problem their DApp aims to solve.
+Smart Contract Development (20 points):
+
+Encourage students to develop a Tezos smart contract that supports the chosen use case. The contract should include functions and logic relevant to the use case. Students should also handle security considerations.
+Front-End Development (20 points):
+
+Instruct students to create a user-friendly front-end interface using web technologies (HTML, CSS, JavaScript) that allows users to interact with the DApp. The front-end should seamlessly integrate with the smart contract.
+Integration (20 points):
+
+Require students to integrate the front-end and smart contract components to create a functional DApp. Users should be able to perform actions related to the chosen use case through the interface.
+User Guide and Demonstration (20 points):
+
+User Guide (10 points):
+
+Instruct students to create a comprehensive user guide that explains how to use the DApp. The guide should include step-by-step instructions, screenshots, and explanations.
+Demonstration (10 points):
+
+Students should prepare a demonstration of their DApp in action. This could be a video presentation, a live demo during a class session, or both. The demonstration should showcase the DApp's functionality and how it addresses the chosen use case.
+Submission Guidelines:
+
+Students should submit their DApp's code (both front-end and smart contract), the user guide, and the demonstration video (if applicable) to the instructor or the designated platform provided for the assignment.
+Grading Rubric:
+
+Full-fledged DApp Development (80 points)
+DApp Use Case (10 points)
+Smart Contract Development (20 points)
+Front-End Development (20 points)
+Integration (20 points)
+User Guide and Demonstration (20 points)
+User Guide (10 points)
+Demonstration (10 points)

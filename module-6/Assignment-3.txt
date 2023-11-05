@@ -1,0 +1,47 @@
+Contribution to Tezos Documentation
+
+Course: Tezos Developer Course
+
+Assignment Objective: The objective of this assignment is to encourage students to actively contribute to the improvement of Tezos documentation. By reviewing and enhancing specific sections of the Tezos documentation, students will help make essential information more accessible to the Tezos community.
+
+Instructions:
+
+Assignment Task:
+
+Documentation Selection (10 points):
+
+Assign each student a specific section or topic in the Tezos documentation that requires improvement or clarification. Ensure that the topics assigned align with their interests and expertise.
+Documentation Review (30 points):
+
+Instruct students to thoroughly review the assigned documentation section. They should look for areas that require clarification, corrections, or additional information.
+Proposed Changes (30 points):
+
+Ask students to propose specific changes, enhancements, or additions to the documentation to address the identified issues. These changes could include:
+Correcting inaccuracies or outdated information.
+Adding examples or code snippets for clarity.
+Providing additional explanations where needed.
+Ensuring that the documentation is concise and well-organized.
+Students should clearly document the proposed changes using the appropriate format (e.g., Markdown) for the Tezos documentation.
+Documentation Contribution (20 points):
+
+Guide students on how to contribute their proposed changes to the Tezos documentation repository. They should:
+Fork the Tezos documentation repository on a platform like GitHub.
+Create a new branch for their changes.
+Make the proposed edits in the branch.
+Create a pull request (PR) to submit their changes to the official documentation.
+Reflection (10 points):
+
+Ask students to reflect on their documentation contribution experience. They should consider:
+The significance of accurate and clear documentation in the Tezos ecosystem.
+The challenges they faced during the contribution process.
+The impact they believe their contributions will have on the Tezos community.
+Submission Guidelines:
+
+Students should submit their proposed changes and the link to their PR in the Tezos documentation repository to the instructor or the designated platform provided for the assignment.
+Grading Rubric:
+
+Documentation Selection (10 points)
+Documentation Review (30 points)
+Proposed Changes (30 points)
+Documentation Contribution (20 points)
+Reflection (10 points)

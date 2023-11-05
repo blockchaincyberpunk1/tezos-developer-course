@@ -1,0 +1,43 @@
+Vulnerability Analysis
+
+Course: Tezos Developer Course
+
+Assignment Objective: The objective of this assignment is to help students develop the skills to identify common vulnerabilities in Tezos smart contracts. By analyzing sample contracts containing vulnerabilities, students will gain a deeper understanding of potential pitfalls and best practices for secure smart contract development. They will also learn how to propose solutions to fix these issues.
+
+Instructions:
+
+Assignment Task:
+
+Analyze Vulnerable Smart Contracts (40 points):
+
+Providing Sample Contracts (10 points):
+
+Supply students with a set of sample Tezos smart contracts, each containing different types of vulnerabilities.
+These vulnerabilities can include reentrancy, integer overflow, underflow, unauthorized access, or any other common security issues.
+Analyzing Vulnerabilities (20 points):
+
+Instruct students to thoroughly analyze the provided smart contracts to identify vulnerabilities.
+They should document each vulnerability they find, explaining its nature and potential consequences.
+Proposing Solutions (10 points):
+
+Require students to propose solutions for fixing the identified vulnerabilities.
+Emphasize the importance of applying best practices for secure smart contract development.
+Documentation (30 points):
+
+Request that students compile their vulnerability analysis and proposed solutions into a comprehensive report.
+The report should include clear explanations of the vulnerabilities, the reasoning behind the proposed solutions, and code snippets if applicable.
+Presentation (20 points):
+
+Organize a presentation session where students will present their findings to the class or the instructor.
+Each student should explain the vulnerabilities they identified, the potential risks, and their proposed solutions.
+Submission Guidelines:
+
+Students should submit their vulnerability analysis report and any relevant documentation to the instructor or the designated platform provided for the assignment.
+Grading Rubric:
+
+Analysis of Vulnerable Smart Contracts (40 points)
+Providing Sample Contracts (10 points)
+Analyzing Vulnerabilities (20 points)
+Proposing Solutions (10 points)
+Documentation (30 points)
+Presentation (20 points)

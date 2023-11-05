@@ -1,0 +1,61 @@
+Security Audit
+
+Course: Tezos Developer Course
+
+Assignment Objective: The objective of this assignment is to simulate a real-world security audit of a Tezos smart contract. Students will be tasked with performing a thorough security audit on a provided Tezos smart contract. They will analyze the contract code, looking for vulnerabilities and potential security risks, and produce a comprehensive security audit report outlining their findings and recommended fixes.
+
+Instructions:
+
+Assignment Task:
+
+Security Audit of a Tezos Smart Contract (100 points):
+
+Provided Tezos Smart Contract (20 points):
+
+Provide students with a Tezos smart contract written in Michelson or Liquidity. The contract should be complex enough to challenge students in identifying security vulnerabilities.
+Security Audit Process (40 points):
+
+Instruct students to perform a systematic security audit of the provided smart contract.
+Encourage students to use best practices for security audits, including code review, testing, and the use of static analysis tools if available.
+Require students to thoroughly document their audit process, including the tools and techniques they used and the criteria they applied to identify security issues.
+Security Findings (30 points):
+
+Ask students to identify and document any security vulnerabilities, weaknesses, or potential risks they find in the smart contract.
+Encourage students to categorize and prioritize their findings based on the severity of the issues.
+Recommended Fixes (10 points):
+
+Require students to propose recommended fixes or improvements for each identified security issue.
+Students should provide clear explanations for why their recommended fixes enhance the security of the contract.
+Security Audit Report (40 points):
+
+Audit Report Structure (10 points):
+
+Instruct students to create a well-structured security audit report that includes sections for an executive summary, methodology, findings, and recommended fixes.
+Executive Summary (10 points):
+
+Require students to provide a concise executive summary that highlights the most critical security findings and recommended actions.
+Methodology (10 points):
+
+Students should explain the methodology they used to conduct the security audit, including the tools and approaches employed.
+Findings (5 points):
+
+Encourage students to present their security findings clearly and comprehensively. Each finding should include a description of the issue, its potential impact, and how it was discovered.
+Recommended Fixes (5 points):
+
+Ensure that students provide detailed and actionable recommendations for addressing the identified security issues.
+Submission Guidelines:
+
+Students should submit their security audit report along with the original provided smart contract to the instructor or the designated platform provided for the assignment.
+Grading Rubric:
+
+Security Audit of a Tezos Smart Contract (100 points)
+Provided Tezos Smart Contract (20 points)
+Security Audit Process (40 points)
+Security Findings (30 points)
+Recommended Fixes (10 points)
+Security Audit Report (40 points)
+Audit Report Structure (10 points)
+Executive Summary (10 points)
+Methodology (10 points)
+Findings (5 points)
+Recommended Fixes (5 points)
